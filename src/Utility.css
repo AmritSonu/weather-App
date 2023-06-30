@@ -1,0 +1,76 @@
+/* flex properties  */
+
+.single_flex {
+  display: flex;
+}
+.multi-flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.space-between {
+  justify-content: space-between;
+}
+.space-around {
+  justify-content: space-around;
+}
+.align-center {
+  align-items: center;
+}
+.wrap {
+  flex-wrap: wrap;
+}
+.flex-col {
+  flex-direction: column;
+}
+
+/* gap using while flex  */
+.g-05 {
+  gap: 0.5rem;
+}
+.g-2 {
+  gap: 2rem;
+}
+.g-3 {
+  gap: 3rem;
+}
+.g-4 {
+  gap: 4rem;
+}
+.g-5 {
+  gap: 4rem;
+}
+.g-10 {
+  gap: 10rem;
+}
+
+.g-12 {
+  gap: 12rem;
+}
+
+/* Margin */
+.mt-2 {
+  margin-top: 2rem;
+}
+/* padding left-right */
+.plr-1 {
+  padding: 0 1rem;
+}
+
+/* center div */
+.center-80 {
+  width: 80%;
+  margin: 0 auto;
+}
+/* font size  */
+
+.f-1 {
+  font-size: 1.6rem;
+}
+/* color */
+.white {
+  color: white;
+}
+.black {
+  color: #000;
+}

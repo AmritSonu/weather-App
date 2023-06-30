@@ -1,0 +1,12 @@
+.pri_container {
+  padding: 0.6rem;
+  width: 35rem;
+  float: left;
+  border-radius: 2rem 0 0 2rem;
+  height: 83.4rem;
+  background: var(--blue) url(../src/assets/weather.png) 0% 100% / 80% no-repeat;
+}
+.temprature {
+  font-size: 6rem;
+  font-weight: 500;
+}

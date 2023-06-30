@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@500&family=Lato:ital@1&family=Press+Start+2P&family=Rubik:ital@1&family=Zeyada&display=swap");
+:root {
+  --blue: #5c9ce5;
+  --lightBlue: #e4f1ff;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  font-size: 62.52%;
+}
+body {
+  font-family: "DM Sans", sans-serif;
+  /* font-family: "Rubik", sans-serif; */
+}
+.main_container {
+  position: relative;
+  max-width: 120rem;
+  margin: 2rem auto;
+  border-radius: 2rem;
+}
